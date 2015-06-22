@@ -1,0 +1,23 @@
+REQUERIMIENTOS PARA EL APP MELODIA evi
+Requisitos funcionales
+•	Requisito funcional 1
+La aplicación móvil (Melodía) debe permitir al usuario, modificar la melodía construida cuantas veces quiera.
+ 
+
+•	Requisito funcional 2
+La aplicación móvil debe permitir al usuario escoger la cantidad de notas que, este requiera para construir su melodía.
+
+•	Requisito funcional 3
+La aplicación móvil deberá permitir que el usuario visualice su melodía desde que empieza a dar la primera nota musical (reproducir).
+
+Requisitos No funcionales
+•	Requisito no funcional 1
+La Aplicación  es especialmente para crear melodías por el usuario alumnos mediante las 7 notas musicales. (DO – RE –MÍ – FA –SOL-LA-SI).
+•	Requisito no funcional 2
+La aplicación será programada especialmente para los teléfonos móviles.
+•	Requisito no funcional 3
+El mantenimiento será 1 ves al año durante dos años.
+
+•	Requisito no funcional 4
+La aplicación se trabajara en Android studio con el lenguaje java ID eclipse.
+
