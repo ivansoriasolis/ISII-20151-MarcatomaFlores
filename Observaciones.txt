@@ -1,0 +1,7 @@
+CASOS DE USO
+------------------
+- Estan bien, aunque sería bueno describirlos
+
+SEGUNDA ENTREGA
+-----------------
+- Pocos commits, los commits deben ser regulares y frecuentes
