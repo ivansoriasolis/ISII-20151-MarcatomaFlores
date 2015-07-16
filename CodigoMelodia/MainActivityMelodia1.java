@@ -75,6 +75,7 @@ _L4:
         if (i >= 18)
         {
             return bitmap;
+
         }
         break MISSING_BLOCK_LABEL_113;
 _L2:
@@ -194,7 +195,7 @@ _L2:
           goto _L4
     }
 
-    private void playNote(MediaPlayer mediaplayer)
+    private void playMusic(MediaPlayer mediaplayer)
     {
         mediaplayer.seekTo(0);
         mediaplayer.start();
@@ -214,7 +215,7 @@ _L2:
         }
     }
 
-    private void stopNote(MediaPlayer mediaplayer)
+    private void splayMusic(MediaPlayer mediaplayer)
     {
         mediaplayer.pause();
     }
