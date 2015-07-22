@@ -1,0 +1,13 @@
+CASOS DE USO
+------------------
+- Estan bien, aunque sería bueno describirlos
+
+SEGUNDA ENTREGA
+-----------------
+- Pocos commits, los commits deben ser regulares y frecuentes
+
+Observaciones tercera entrega
+-------------------------------------
+- Has hecho pocos commits, aunque no has puesto mucho codigo, tengo la sensación de que no estas avanzando
+- ¿para que cambias el nombre de los metodos de note a music?
+- al menos utilizas bien git, pero falta darle mas dinamismo
