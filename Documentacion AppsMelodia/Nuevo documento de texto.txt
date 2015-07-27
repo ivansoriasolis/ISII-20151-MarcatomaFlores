@@ -19,5 +19,5 @@ La aplicación será programada especialmente para los teléfonos móviles.
 El mantenimiento será 1 ves al año durante dos años.
 
 •	Requisito no funcional 4
-La aplicación se trabajara en Android studio con el lenguaje java ID eclipse.
+La aplicación se trabajara en corona sdk y el lenguaje Lua.
 
