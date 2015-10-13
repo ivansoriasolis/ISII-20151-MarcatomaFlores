@@ -20,3 +20,6 @@ El mantenimiento será 1 ves al año durante dos años.
 •	Requisito no funcional 4
 La aplicación se trabajara en corona sdk y el lenguaje Lua.
 
+
+Regresamos de nuevo ,para poder realizar los requerimeintos que faltan
+
