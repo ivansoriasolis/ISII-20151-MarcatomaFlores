@@ -23,3 +23,13 @@ La aplicación se trabajara en corona sdk y el lenguaje Lua.
 
 Cambiaraemos imagenes y agregaremos mas funcionalidades
 
+He estado viendo que cambiarale parte del sonido a mi Aplicacion ; agregarle otra funcionalidad no se si este bien.
+aun lo estoy anlizando porque no es tan facil.
+por ahora tenemos mejor sonido y lo que queria un poco es cambiarle la interfaz.
+ 
+
+No se que tan factible sera si mi aplicacion la modifico un poco , para poder 
+personas con estrez que escuchando musica clasica logren superar ello.
+
+
+
