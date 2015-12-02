@@ -42,7 +42,7 @@ function toque(event)
 end
 function asignarNota( )
 	for i=1,7 do
-		nota[i]=audio.loadSound('sonido/nota'..i..'.mp3')--asigmanos  sonidos a la tabla nota
+		nota[i]=audio.loadSound('sonido/nota'..i..'.')--asigmanos  sonidos a la tabla nota
 	end
 end
 function verificarEstado ()--funcion para verificar el estado de la grabacion
