@@ -14,7 +14,7 @@ function scene:createScene(event)
 	crearControl()--llamamos a la funcion crearControl
 end
 function crearFondo( ) --funcion para crear fondo de la scena
-	fondo=display.newImageRect( grupo3,'img/fondo2.jpeg',400,150)
+	fondo=display.newImageRect( grupo3,'img/fondo2.jpg',400,150)
 	fondo.x,fondo.y=300,90
 end
 local function onRowRender( event )--renderizamos datos del array a la list1
